@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import classes from './button.module.css';
 
-function Button(props) {
+function Button(props: any) {
 
 
   return (
